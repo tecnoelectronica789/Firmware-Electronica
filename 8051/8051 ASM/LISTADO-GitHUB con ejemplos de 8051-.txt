@@ -1,10 +1,6 @@
 %%  11:40 a.m. 29/06/2019  
-
-
 https://github.com/electgpl/Firmware-Electronica/tree/master/8051/8051%20ASM
-
-
----------------------------------------------------------------------
+-----------------------------------------------------------
 A01-8051-ADC a 3 dgitos multiplexado-9P1KyX1D.asm	 
 A02-8051-Busca el Max el Min y sus direcciones.asm	 
 A03-8051-CARGA TABLA ENVIA POR UART EN 30H.asm	 
@@ -24,8 +20,4 @@ A16-8051-Resumen de funciones.asm
 A17-8051-TABLA UART 8051 v2.asm	 
 A18-8051-TABLA UART.asm	 
 A19-8051-Toggle GPIO mediante EXTINT0.asm	 
-
 **
-
-
-
