@@ -1,5 +1,5 @@
 %%  11:40 a.m. 29/06/2019  
-https://github.com/electgpl/Firmware-Electronica/tree/master/8051/8051%20ASM
+https://github.com/tecnoelectronica789/Firmware-Electronica/tree/master/8051/8051%20ASM
 -----------------------------------------------------------
 A01-8051-ADC a 3 dgitos multiplexado-9P1KyX1D.asm	 
 A02-8051-Busca el Max el Min y sus direcciones.asm	 
