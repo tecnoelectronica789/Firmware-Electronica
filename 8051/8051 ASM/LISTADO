@@ -1,0 +1,20 @@
+A01-8051-ADC a 3 dgitos multiplexado-9P1KyX1D.asm	 
+A02-8051-Busca el Max el Min y sus direcciones.asm	 
+A03-8051-CARGA TABLA ENVIA POR UART EN 30H.asm	 
+A04-8051-Demos 4 Display Bloqueante con Tabla.asm	 
+A05-8051-Demos 4 Display Bloqueante.asm	 
+A06-8051-ECO UART.asm	 
+A07-8051-ENVIA TABLA UART 1S.asm	 
+A08-8051-Examen con Timer.asm	 
+A09-8051-Examen sin Timer.asm	 
+A10-8051-Generador 50Hz con TMR0.asm	 
+A11-8051-Generador 50Hz y Muestra Cuenta del Timer por INT0.asm	 
+A12-8051-LED Menor Igual Mayor.asm	 
+A13-8051-Pendulo Long Per.asm	 
+A14-8051-RECIBE POR UART Y GUARDA EN TABLA 40H.asm	 
+A15-8051-RECIBE UART A PUERTO 0.asm	 
+A16-8051-Resumen de funciones.asm	 
+A17-8051-TABLA UART 8051 v2.asm	 
+A18-8051-TABLA UART.asm	 
+A19-8051-Toggle GPIO mediante EXTINT0.asm	
+https://github.com/electgpl/Firmware-Electronica/tree/master/8051/8051%20ASM
